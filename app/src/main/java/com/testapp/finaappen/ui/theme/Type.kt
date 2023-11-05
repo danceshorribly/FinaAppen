@@ -1,4 +1,4 @@
-package com.example.finaappen.ui.theme
+package com.testapp.finaappen.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

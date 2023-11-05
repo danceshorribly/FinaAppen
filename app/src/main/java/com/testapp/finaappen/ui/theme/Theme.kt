@@ -1,4 +1,4 @@
-package com.example.finaappen.ui.theme
+package com.testapp.finaappen.ui.theme
 
 import android.app.Activity
 import android.os.Build

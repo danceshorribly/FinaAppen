@@ -1,4 +1,4 @@
-package com.example.finaappen
+package com.testapp.finaappen
 
 import org.junit.Test
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.finaappen"
+    namespace = "com.testapp.finaappen"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.finaappen"
+        applicationId = "com.testapp.finaappen"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.finaappen.ui.theme
+package com.testapp.finaappen.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
